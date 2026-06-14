@@ -1,0 +1,9 @@
+CNN From Scratch Dataset
+
+CIFAR-10
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+Transfer Learning Dataset
+
+Cats vs Dogs
+https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
