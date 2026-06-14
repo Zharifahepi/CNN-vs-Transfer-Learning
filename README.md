@@ -1,9 +1,8 @@
 # CNN-vs-Transfer-Learning
 
-**Name:** Zharifah Zahra Salsabila
-**NIM:** 452024618106
-**Study Program:** Teknik Informatika
-**University:** Universitas Darussalam Gontor
+* **Nama:** Zharifah Zahra Salsabila
+* **NIM:** 452024618106
+* **Program Studi:** Teknik Informatika
 
 This project compares the performance of CNN From Scratch and Transfer Learning (MobileNetV2) for image classification tasks.
 
